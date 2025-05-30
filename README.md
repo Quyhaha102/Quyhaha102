@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Quy!
 
-<!--
-**Quyhaha102/Quyhaha102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Fullstack Developer** who loves turning ideas into functional and scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 🔹 Frontend: HTML, CSS, JavaScript, React
+- 🔹 Backend: Node.js, Express
+- 🔹 Database: MongoDB, MySQL
+- 🔹 Tools: Git, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Deepen my knowledge of fullstack development
+- Contribute to open-source projects
+- Collaborate with developers around the world
+
+## 📫 Let's Connect!
+- Email: quyduongjp@gmail.com
